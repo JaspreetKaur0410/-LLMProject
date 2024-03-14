@@ -1,4 +1,4 @@
-from langchain import OpenAI
+from langchain_community import OpenAI
 from langchain_experimental.agents import create_pandas_dataframe_agent
 import pandas as pd
 
