@@ -3,6 +3,6 @@ langchain
 langchain_experimental
 openai
 numpy
-environ
+python-environ
 agent
 langchain_community
