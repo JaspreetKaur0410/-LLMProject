@@ -1,7 +1,7 @@
 # LLMProject
 
 # imports
-1) from langchain import OpenAI
+1) from langchain_community.llms import OpenAI
 2) from langchain_experimental.agents import create_pandas_dataframe_agent
 3) import pandas as pd
 4) import streamlit as st
