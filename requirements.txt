@@ -5,3 +5,4 @@ openai
 numpy
 environ
 agent
+langchain_community
