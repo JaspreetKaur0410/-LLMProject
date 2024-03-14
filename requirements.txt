@@ -1,0 +1,9 @@
+streamlit
+pandas
+json
+langchain
+langchain_experimental
+unittest
+openai
+sys
+numpy
